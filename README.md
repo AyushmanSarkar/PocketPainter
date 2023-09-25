@@ -9,7 +9,7 @@ or upload from the computer (using menu or drag & drop). Nothing will be sent to
 browser. 
 
 ## URL:
-**https://viliusle.github.io/miniPaint/**
+**https://ayushmansarkar.github.io/PocketPainter/**
 
 ## Preview:
 ![PocketPainter](https://raw.githubusercontent.com/ayushmansarkar/PocketPainter/master/images/preview.jpg)
