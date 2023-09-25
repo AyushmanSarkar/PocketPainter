@@ -1,29 +1,6 @@
 import glfx from './glfx.js';
 import ImageFilters from './imagefilters.js';
 
-/**
- * adds vintage effect
- * 
- * @author ViliusL
- * 
- * Functions:
- * - adjust_color
- * - lower_contrast
- * - blur
- * - light_leak
- * - chemicals
- * - exposure
- * - grains
- * - grains_big
- * - optics
- * - dusts
- *
- * Usage:	VINTAGE.___function___(canvas,, param1, param2, ...);
- * 
- * libs:		
- * - imagefilters.js, url: https://github.com/arahaya/ImageFilters.js
- * - glfx.js url: http://evanw.github.com/glfx.js/
- */
 class Vintage_class {
 
 	constructor(width, height) {

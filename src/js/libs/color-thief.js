@@ -2,12 +2,6 @@
  * Color Thief v2.0
  * by Lokesh Dhakar - http://www.lokeshdhakar.com
  *
- * Thanks
- * ------
- * Nick Rabinowitz - For creating quantize.js.
- * John Schulz - For clean up and optimization. @JFSIII
- * Nathan Spady - For adding drag and drop support to the demo page.
- *
  * License
  * -------
  * Copyright 2011, 2015 Lokesh Dhakar
@@ -17,13 +11,6 @@
  * @license
  */
 
-
-/*
-  CanvasImage Class
-  Class that wraps the html image element and canvas.
-  It also simplifies some of the canvas context manipulation
-  with a set of helper functions.
-*/
 var CanvasImage = function (image) {
     this.canvas  = document.createElement('canvas');
     this.context = this.canvas.getContext('2d');
