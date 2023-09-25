@@ -13,6 +13,7 @@ browser.
 
 ## Preview:
 ![PocketPainter](https://raw.githubusercontent.com/ayushmansarkar/PocketPainter/master/images/preview.jpg)
+
 (generated using miniPaint)
 
 **Change log:** [/miniPaint/releases](https://github.com/ayushmansarkar/PocketPainter/releases)
