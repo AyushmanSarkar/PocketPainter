@@ -1,4 +1,4 @@
-# miniPaint
+# PocketPainter
 
 Online image editor lets you create, edit images using HTML5 technologies.
 No need to buy, download, install or have obsolete flash. No ads.
@@ -12,10 +12,10 @@ browser.
 **https://viliusle.github.io/miniPaint/**
 
 ## Preview:
-![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
+![PocketPainter](https://raw.githubusercontent.com/ayushmansarkar/PocketPainter/master/images/preview.jpg)
 (generated using miniPaint)
 
-**Change log:** [/miniPaint/releases](https://github.com/viliusle/miniPaint/releases)
+**Change log:** [/miniPaint/releases](https://github.com/ayushmansarkar/PocketPainter/releases)
 
 ## Browser Support
 - Chrome
@@ -43,21 +43,11 @@ Gingham, Inkwell, Lo-fi, Toaster, Valencia, X-Pro II.
 ## Embed
 To embed this app in the other page, use this HTML code:
 
-    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://viliusle.github.io/miniPaint/" allow="camera"></iframe>
+    <iframe style="width:100%; height:1000px;" id="pocketpainter" src="https://ayushmansarkar.github.io/PocketPainter/" allow="camera"></iframe>
 
 ## Build instructions
-See [Wiki > Build instructions](https://github.com/viliusle/miniPaint/wiki/Build-instructions)
+See [Wiki > Build instructions](https://ayushmansarkar.github.io/PocketPainter/wiki/Build-instructions)
 
 ## Wiki
-See [Wiki](https://github.com/viliusle/miniPaint/wiki)
+See [Wiki](https://ayushmansarkar.github.io/PocketPainter/wiki)
 
-## Contributors
-<a align="center" href="https://github.com/viliusle/miniPaint/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=viliusle/miniPaint" />
-</a>
-
-## License
-MIT License
-
-## Support
-Please use the GitHub issues for support, features, issues or use mail www.viliusl@gmail.com for contacts.
