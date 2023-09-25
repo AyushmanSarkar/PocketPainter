@@ -30,7 +30,7 @@ class Dialog_class {
 		this.el = null;
 		this.eventHandles = [];
 		this.active = false;
-		this.title = null;
+		this.title = "ABOUT";
 		this.onfinish = false;
 		this.oncancel = false;
 		this.preview = false;

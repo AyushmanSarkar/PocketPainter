@@ -1,7 +1,4 @@
-/*
- * miniPaint - https://github.com/viliusle/miniPaint
- * author: Vilius L.
- */
+
 
 import config from './../config.js';
 import Dialog_class from './../libs/popup.js';

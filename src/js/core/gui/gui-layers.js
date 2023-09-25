@@ -1,7 +1,4 @@
-/*
- * miniPaint - https://github.com/viliusle/miniPaint
- * author: Vilius L.
- */
+
 
 import app from './../../app.js';
 import config from './../../config.js';
