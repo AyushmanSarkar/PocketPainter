@@ -15,7 +15,7 @@ browser.
 
 (generated using miniPaint)
 
-**Change log:** [/miniPaint/releases](https://github.com/ayushmansarkar/PocketPainter/releases)
+**Change log:** [/PocketPainter/releases](https://github.com/ayushmansarkar/PocketPainter/releases)
 
 ## Browser Support
 - Chrome
